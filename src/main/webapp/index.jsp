@@ -723,7 +723,7 @@
         // --- Sample data (can be replaced by server-side data or API) ---
         const CATEGORIES = [{
                 id: 'phones',
-                name: 'Smartphones',
+                name: 'SmartCell',
                 icon: 'fa-mobile-alt'
             },
             {
