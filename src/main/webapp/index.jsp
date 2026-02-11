@@ -723,12 +723,12 @@
         // --- Sample data (can be replaced by server-side data or API) ---
         const CATEGORIES = [{
                 id: 'phones',
-                name: 'Smartphones',
+                name: 'Smartphonesforsale',
                 icon: 'fa-mobile-alt'
             },
             {
                 id: 'laptops',
-                name: 'Laptops',
+                name: 'Laptopsforsale',
                 icon: 'fa-laptop'
             },
             {
